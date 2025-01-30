@@ -1,0 +1,1 @@
+This error occurs when using the `Dimensions` API in React Native to get screen dimensions.  The `Dimensions.get('window')` returns incorrect or inconsistent values, especially in cases of screen rotation or when dealing with notches or safe areas. This can lead to UI elements being positioned incorrectly, cut off, or overlapping.
